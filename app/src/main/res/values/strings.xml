@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SurfCampsApp</string>
+    <string name="entrar">Entrar</string>
+    <string name="registar">Registar</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirmar_password_hint"> Confirmar Password</string>
+    <string name="info_conta_string">Informação de Conta</string>
+    <string name="info_pessoal_string">Informação Pessoal</string>
+    <string name="registo_nome">Primeiro Nome</string>
+    <string name="registo_apelido">Apelido</string>
+    <string name="nav_ofetas">Ofertas</string>
+    <string name="nav_reservas">Reservas</string>
+    <string name="nav_ajuda">Ajuda</string>
+    <string name="nav_perfil">Perfil</string>
+</resources>
