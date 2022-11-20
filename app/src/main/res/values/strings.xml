@@ -12,5 +12,43 @@
     <string name="nav_ofetas">Ofertas</string>
     <string name="nav_reservas">Reservas</string>
     <string name="nav_ajuda">Ajuda</string>
-    <string name="nav_perfil">Perfil</string>
+    <string name="descricao">Descrição:</string>
+    <string name="marcar">Marcar</string>
+    <string name="ajuda">Esta aplicação tem como objetivo facilitar a procura escolas e aulas de surf. A sua utilização é bastante simples, basta ir as ofertas, visualizar uma
+    e se a achar interessante pode marcar a escolher os seus extras. Pode sempre ver as aulas que marcou e o seu perfil utilizando o menu de navegação</string>
+
+    <string-array name="titulos_aulas">
+        <item>Aula Principiante</item>
+        <item>Aula com Estadia</item>
+        <item>Aula com Gravação Incl.</item>
+        <item>Aula Teorica</item>
+    </string-array>
+
+    <string-array name="escolas_aulas">
+        <item>António Duarte</item>
+        <item>Kalux</item>
+        <item>Porto Covo SurfCamp</item>
+        <item>Ana Maria</item>
+    </string-array>
+
+    <string-array name="desc_aulas">
+        <item>Esta aula tem como objetivo aprender as diversas bases do Surf, ensinada pelo Campeão Nacional António Duarte.</item>
+        <item>Kalux Surf Camp, tem um excelente espaço pronto para ti, temos aulas para todos os niveis, lecionadas por varios instrutores.</item>
+        <item>Venha conhecer Porto Covo e as suas ondas, temos varios tipos de aulas, aluguer de equipamento e mais.</item>
+        <item>Ana Maria instrutora profissional de Surf, está ao dispor de qualquer pessoa que queira participar e melhorar neste desporto.</item>
+    </string-array>
+
+    <string-array name="preco_aulas">
+        <item>15</item>
+        <item>50</item>
+        <item>80</item>
+        <item>35</item>
+    </string-array>
+
+    <string-array name="extras_aulas">
+        <item>Equipamento (15€)\n\nAlojamento (30€\dia)\n\nGravação e Analise de Video (10€)\n</item>
+        <item>Prancha (15€)\n\nGravação e Analise de Video (30€)\n\nAlimentação (10€)\n</item>
+        <item>Fotografia (15€)\n\Alojamento (30€\dia)\n\nVisita Guiada (10€)\n</item>
+        <item>Equipamento (15€)\n\nAlojamento (30€\dia)\n\nGravação e Analise de Video (10€)\n</item>
+    </string-array>
 </resources>

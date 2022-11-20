@@ -33,7 +33,7 @@
 
     <EditText
         android:id="@+id/loginEmail"
-        android:layout_width="wrap_content"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/black"
         android:drawableStart="@drawable/ic_email"
@@ -41,7 +41,8 @@
         android:drawableTint="@color/black"
         android:ems="10"
         android:hint="@string/email_hint"
-        android:inputType="textPersonName"
+        android:inputType="textWebEmailAddress"
+        android:minHeight="48dp"
         android:textColor="@color/black"
         android:textColorHint="@color/gray"
         app:layout_constraintBottom_toTopOf="@+id/loginPassword"
@@ -53,7 +54,7 @@
 
     <EditText
         android:id="@+id/loginPassword"
-        android:layout_width="wrap_content"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="36dp"
         android:backgroundTint="@color/black"
@@ -63,6 +64,7 @@
         android:ems="10"
         android:hint="@string/password_hint"
         android:inputType="textPassword"
+        android:minHeight="48dp"
         android:textColor="@color/black"
         android:textColorHint="@color/gray"
         app:layout_constraintBottom_toTopOf="@+id/login"
